@@ -1,35 +1,35 @@
-1  What problems and concerns are there in making up descriptive titles? What difficulties are involved in automatically retrieving articles from approximate titles? What is the usual relevance of the content of articles to their titles?
-2  How can actually pertinent data, as opposed to references or entire articles themselves, be retrieved automatically in response to information requests?
-3  What is information science? Give definitions where possible.
-4  Image recognition and any other methods of automatically transforming printed text into computer-ready form.
-5  What special training will ordinary researchers and businessmen need for proper information management and unobstructed use of information retrieval systems? What problems are they likely to encounter?
-6  What possibilities are there for verbal communication between computers and humans, that is, communication via the spoken word?
-7  Describe presently working and planned systems for publishing and printing original papers by computer, and then saving the byproduct, articles coded in data-processing form, for further use in retrieval.
-8  Describe information retrieval and indexing in other languages. What bearing does it have on the science in general?
-9  What possibilities are there for automatic grammatical and contextual analysis of articles for inclusion in an information retrieval system?
-10  The use of abstract mathematics in information retrieval, e.g. group theory.
-11  What is the need for information consolidation, evaluation, and retrieval in scientific research?
-12  Give methods for high speed publication, printing, and distribution of scientific journals.
-13  What criteria have been developed for the objective evaluation of information retrieval and dissemination systems?
-14  What future is there for automatic medical diagnosis?
-15  How much do information retrieval and dissemination systems, as well as automated libraries, cost? Are they worth it to the researcher and to industry?
-16  What systems incorporate multiprogramming or remote stations in information retrieval? What will be the extent of their use in the future?
-17  Means of obtaining large volume, high speed, customer usable information retrieval output.
-18  What methods are there for encoding, automatically matching, and automatically drawing structures extended in two dimensions, like the structural formulas for chemical compounds?
-19  Techniques of machine matching and machine searching systems. Coding and matching methods.
-20  Testing automated information systems.
-21  The need to provide personnel for the information field.
-22  Automated information in the medical field.
-23  Amount of use of books in libraries. Relation to need for automated information systems .
-24  Educational and training requirements for personnel in the information field. Possibilities for this training. Needs for programs providing this training.
-25  International systems for exchange and dissemination of information.
-26  Cost and determination of cost associated with systems of automated information.
-27  Computerized information retrieval systems. Computerized indexing systems.
-28  Computerized information systems in fields related to chemistry.
-29  Specific advantages of computerized index systems.
-30  Information dissemination by journals and periodicals.
-31  Information systems in the physical sciences.
-32  Attempts at computerized and mechanized systems for general libraries. Problems and methods of automated general author and title indexing systems.
-33  Retrieval systems which provide for the automated transmission of information to the user from a distance.
-34  Methods of coding used in computerized index systems.
-35  Government supported agencies and projects dealing with information dissemination.
+1 what problems and concerns are there in making up descriptive titles what difficulties are involved in automatically retrieving articles from approximate titles what is the usual relevance of the content of articles to their titles 
+2 how can actually pertinent data as opposed to references or entire articles themselves be retrieved automatically in response to information requests 
+3 what is information science give definitions where possible 
+4 image recognition and any other methods of automatically transforming printed text into computer ready form 
+5 what special training will ordinary researchers and businessmen need for proper information management and unobstructed use of information retrieval systems what problems are they likely to encounter 
+6 what possibilities are there for verbal communication between computers and humans that is communication via the spoken word 
+7 describe presently working and planned systems for publishing and printing original papers by computer and then saving the byproduct articles coded in data processing form for further use in retrieval 
+8 describe information retrieval and indexing in other languages what bearing does it have on the science in general 
+9 what possibilities are there for automatic grammatical and contextual analysis of articles for inclusion in an information retrieval system 
+10 the use of abstract mathematics in information retrieval e g group theory 
+11 what is the need for information consolidation evaluation and retrieval in scientific research 
+12 give methods for high speed publication printing and distribution of scientific journals 
+13 what criteria have been developed for the objective evaluation of information retrieval and dissemination systems 
+14 what future is there for automatic medical diagnosis 
+15 how much do information retrieval and dissemination systems as well as automated libraries cost are they worth it to the researcher and to industry 
+16 what systems incorporate multiprogramming or remote stations in information retrieval what will be the extent of their use in the future 
+17 means of obtaining large volume high speed customer usable information retrieval output 
+18 what methods are there for encoding automatically matching and automatically drawing structures extended in two dimensions like the structural formulas for chemical compounds 
+19 techniques of machine matching and machine searching systems coding and matching methods 
+20 testing automated information systems 
+21 the need to provide personnel for the information field 
+22 automated information in the medical field 
+23 amount of use of books in libraries relation to need for automated information systems 
+24 educational and training requirements for personnel in the information field possibilities for this training needs for programs providing this training 
+25 international systems for exchange and dissemination of information 
+26 cost and determination of cost associated with systems of automated information 
+27 computerized information retrieval systems computerized indexing systems 
+28 computerized information systems in fields related to chemistry 
+29 specific advantages of computerized index systems 
+30 information dissemination by journals and periodicals 
+31 information systems in the physical sciences 
+32 attempts at computerized and mechanized systems for general libraries problems and methods of automated general author and title indexing systems 
+33 retrieval systems which provide for the automated transmission of information to the user from a distance 
+34 methods of coding used in computerized index systems 
+35 government supported agencies and projects dealing with information dissemination 
