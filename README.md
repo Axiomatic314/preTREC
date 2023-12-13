@@ -9,10 +9,10 @@ Aside from the CysticFibrosis collection, all of the original files (and some ex
 | CISI           | 1460            | 112           | 3114        |
 | Cranfield      | 1400            | 225           | 1837        |
 | CysticFibrosis | 1239            | 100           | 4819        |
-| LISA           | 6004            | 35            | 344         |
+| LISA           | 5999            | 35            | 344         |
 | Medline        | 1033            | 30            | 696         |
 | NPL            | 11429           | 93            | 2083        |
-| Time           | 423             | 82            | 324         |
+| Time           | 423             | 83            | 324         |
 
 ### CysticFibrosis Collection Disclaimer:
 There were a few issues with the original files, mostly to do with encoding. These were manually altered before parsing.
