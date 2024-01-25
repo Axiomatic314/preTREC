@@ -2,17 +2,17 @@
 Aside from the CysticFibrosis collection, all of the original files (and some explanations) are available at http://ir.dcs.gla.ac.uk/resources/test_collections/.
 
 ## Collection Statistic Summary
-| Collection     | Total Documents | Total Queries | Total Queries with <br>Judgements| Total QRels |
-|----------------|-----------------|---------------|-------------------------------------------|-------------|
-| ADI            | 82              | 35            | 35                                        | 170         |
-| CACM           | 3204            | 64            | 52                                        | 796         |
-| CISI           | 1460            | 112           | 76                                        | 3114        |
-| Cranfield      | 1400            | 225           | 225                                       | 1837        |
-| CysticFibrosis | 1239            | 100           | 100                                       | 4819        |
-| LISA           | 5999            | 35            | 31                                        | 344         |
-| Medline        | 1033            | 30            | 30                                        | 696         |
-| NPL            | 11429           | 93            | 93                                        | 2083        |
-| Time           | 423             | 83            | 83                                        | 324         |
+| Collection     | Total Documents | Total Queries | Total Queries with <br>Relevant Documents | Total QRels | Mean Document Length<br>(Words) |
+|----------------|-----------------|---------------|-------------------------------------------|-------------|---------------------------------|
+| ADI            | 82              | 35            | 35                                        | 170         | 65                              |
+| CACM           | 3204            | 64            | 52                                        | 796         | 71                              |
+| CISI           | 1460            | 112           | 76                                        | 3114        | 133                             |
+| Cranfield      | 1400            | 225           | 225                                       | 1837        | 184                             |
+| CysticFibrosis | 1239            | 100           | 100                                       | 4819        | 193                             |
+| LISA           | 5999            | 35            | 31                                        | 344         | 89                              |
+| Medline        | 1033            | 30            | 30                                        | 696         | 156                             |
+| NPL            | 11429           | 93            | 93                                        | 2083        | 42                              |
+| Time           | 423             | 83            | 83                                        | 324         | 605                             |
 ### CysticFibrosis Collection Disclaimer:
 There were a few issues with the original files, mostly to do with encoding. These were manually altered before parsing.
 - cf74: line 6860 had some unreadable characters, so I filled in the blanks (I believe I found the original abstract/extract).
