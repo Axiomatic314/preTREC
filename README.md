@@ -1,5 +1,5 @@
 ## Note:
-Aside from the CysticFibrosis collection, all of the original files (and some explanations) are available at http://ir.dcs.gla.ac.uk/resources/test_collections/.
+Aside from the CysticFibrosis collection (found at https://people.ischool.berkeley.edu/~hearst/irbook/cfc.html), all of the original files (and some explanations) are available at http://ir.dcs.gla.ac.uk/resources/test_collections/.
 
 ## Collection Statistic Summary
 | Collection     | Total Documents | Total Queries | Total Queries with <br>Relevant Documents | Total QRels | Mean Document Length<br>(Words) |
